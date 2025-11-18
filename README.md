@@ -14,7 +14,3 @@ This is a simple and clean **Social Links Profile** page built using **only HTML
 
 ---
 
-## 📁 Project Structure
-
-
-
